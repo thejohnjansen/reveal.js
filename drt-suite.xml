@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data>
+  <Table Id="DisabledSubTests">
+    <Row Name="ie10-touch-promotion-drag" Owner="alewoolf" Tags="display, cpRemoval">
+      <Parameter Name="Harness">ie10\touch-promotion.js</Parameter>
+      <Parameter Name="Testcase">drag</Parameter>
+      <Parameter name="Status">Disabled</Parameter>
+      <Parameter name="BugId">msft:1111111</Parameter>
+    </Row>
+  </Table>
+</Data>
